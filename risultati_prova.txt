@@ -1,0 +1,45 @@
+corsa
+	{"similarity":0.17241379310345,"value":34482.75862069,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ['andatura veloce di uomini, animali o veicoli,', 'gara di velocità tra uomini, animali o veicoli,', 'insieme di azioni belliche con navi intese a danneggiare il commercio dei nemici']
+	DE_MAURO: andatura veloce dell’uomo, in cui le fasi di appoggio alternativo dei piedi sono intervallate da una fase di sospensione in aria: , ;  correndo o anche con passi molto rapidi  di animali, rapida andatura a balzi: ,  colloq., spostamento veloce, breve viaggio seguito da una sosta molto breve; capatina, salto: , ,  andatura, marcia veloce di un veicolo: ,  estens., di mezzi pubblici di trasporto, percorso, spec. da capolinea a capolinea: , ,  spazio percorso da un aereo quando si muove sulla pista:    sport gara di velocità in cui è prevista la partenza simultanea di più concorrenti che dovranno raggiungere nel minor tempo possibile un traguardo : ,    spec. al pl., gara ippica:    fig., ricerca affannosa e avida di beni materiali, spec. vissuta come competizione:    fig., crescita rapida, impennata, rialzo:    stor. =>     mecc. misura dello spostamento tra due posizioni estreme compiuto da un organo che ha moto alternativo rettilineo:    movimento rettilineo consentito a un organo meccanico:
+
+
+
+
+
+
+conversazione
+	{"similarity":0.66694582491331,"value":133389.16498266,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ['colloquio, dialogo amichevole e dal tono disteso tra due o più persone,', 'compagnia, circolo di persone che si riuniscono abitualmente, breve discorso di argomento scientifico, letterario o di attualità']
+	DE_MAURO: il conversare; dialogo, colloquio tra due o più persone, spec. su temi non impegnativi e in tono informale: , , , , ; , tenere salotto, ricevere gente allo scopo di discutere piacevolmente; , , ; , ; : quella che avviene per mezzo del telefono: ,   breve discorso su un argomento specifico, tenuto in un linguaggio accessibile, senza eccessi di scientificità: ,   al pl., titolo di opere che raccolgono saggi, note, divagazioni di un autore:         circolo di conversatori, cerchia di persone che si frequentano abitualmente         dir.intern. incontro informale tra personalità od organi internazionali, per scambio di opinioni         familiarità, dimestichezza:  (Dante)         comunità di persone che appartengono allo stesso circolo, anche allo stesso ordine religioso         convivenza         condotta, comportamento
+
+dannarsi
+	{"similarity":0.2,"value":40000,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ["perdere l'anima, tormentarsi, impegnarsi al massimo"]
+	DE_MAURO: perdere la propria anima; andare all’inferno:  fig., affaticarsi, arrovellarsi; impegnarsi fino allo spasimo:
+
+docet
+	{"result_code":"415","result_msg":"Does not look like a valid request"}
+	RIF: ['(posposto a un sost.) insegna, ammaestra, per es. in £1Manzoni docet1£']
+	DE_MAURO: 
+
+deformante
+	{"similarity":0.46153846153846,"value":92307.692307692,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ["che altera l'aspetto, deturpante"]
+	DE_MAURO: 1. p.pres. =>   agg.   che altera l’aspetto, deturpante: ,
+
+formante
+	{"similarity":0.3125,"value":62500,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ['elemento che, aggiunto a un radicale, forma un tema verbale o nominale']
+	DE_MAURO: 1. p.pres., agg. =>   s.m.   ling., gramm. elemento linguistico che, aggiunto a un radicale, forma un tema verbale o nominale  s.f.   ling., fon. in fonetica acustica, con riferimento ai suoni vocalici: componente dello spettro acustico determinata dalle caratteristiche di risonanza della configurazione del canale orale tipiche di una data vocale
+
+insetto
+	{"similarity":0.50099540858696,"value":100199.08171739,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ["piccolo animale invertebrato con sei zampe, spesso alato, come per es. la formica, la mosca, la farfalla, l'ape, lo scarafaggio, ecc.,", 'artropode della classe degli Insetti']
+	DE_MAURO: piccolo animale invertebrato con sei zampe, spesso alato, come ad es. la formica, la mosca, la farfalla, l’ape, lo scarafaggio, ecc.    entom. artropode della classe degli Insetti, con tre paia di zampe, corpo ricoperto da una cuticola chitinosa e suddiviso in capo, torace e addome, caratterizzato da riproduzione ovipara, cui generalmente fanno seguito vari stadi di metamorfosi   pl. con iniz. maiusc., classe del phylum degli Artropodi    estens., qualsiasi piccolo invertebrato anche con più di sei zampe, come i ragni, gli acari e vari altri parassiti domestici: ; , umiliarlo profondamente    fig., spreg., persona meschina o fastidiosa:
+
+preziosità
+	{"similarity":1,"value":200000,"version":"4.0.0","author":"twinword inc.","email":"help@twinword.com","result_code":"200","result_msg":"Success"}
+	RIF: ["l'essere prezioso, eleganza ricercata e piena di affettazione,", 'preziosismo stilistico,', "oggetto, opera d'arte di pregio"]
+	DE_MAURO: lâessere prezioso:    spec. al pl., oggetto prezioso, per il suo valore, la sua raritÃ  o la sua antichitÃ     sfoggio di eleganza raffinata in unâopera artistica o letteraria:    elemento, spec. letterario, che denota eleganza:
+

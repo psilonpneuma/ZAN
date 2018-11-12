@@ -1,0 +1,27 @@
+dossieraggio s.m. “redazione di dossier contenenti notizie riservate su personaggi pubblici, società, organizzazioni e sim.”
+dosso s.m. (lett.) “dorso, schiena”, “prominenza, cima di un rilievo”, “rialzo del fondo stradale, indicato da apposito segnale di pericolo” [dal lat. parl. *dossum, forma assimilata di dorsum s.n. “dorso”]
+>dossale s.m. “copertura, spec. di panno e artisticamente lavorata, che riveste mobili, pareti, suppellettili o libri”, “travicello o tavolone che fa parte della armatura provvisoria di archi e volte”, “parte dorsale dell'altare cristiano” [dal lat. mediev. dossalem s.m., forma assimilata di dorsale s.m., da dorsalis agg. “dorsale”]
+>dossiere s.m. (disus.) “spalliera imbottita del letto”, (disus.) “parte della bardatura da tiro a cui sono uniti i portastanghe”
+>addosso avv. “sulle spalle, sul dorso, sulla persona”, locuz. prep. addosso a “sopra, su”, inter. “si usa come incitamento a gettarsi contro qlcu., ad assalirlo, aggredirlo” [dalla locuz. a dosso]
+>addossare v. “appoggiare con la parte posteriore, per es. un divano alla parete”, “attribuire, imputare, accollare”; addossarsi “attribuirsi, assumersi”, “appoggiarsi”
+>>addossamento s.m. “l’addossare, l'addossarsi”
+>>riaddossare v. “attribuire una colpa, una responsabilità”; riaddossarsi “assumersi di nuovo”
+>bisdosso solo nella locuz. avv. a bisdosso, “sul dorso nudo del cavallo o sim., senza sella”
+canto s.m. “suono emesso dalla voce umana seguendo una linea melodica e un andamento ritmico con o senza parole, anche improvvisato, con o senza accompagnamento musicale”, “arte, stile, tecnica del cantare”, “suono, specie se gradevole, emesso da animali o da cose”, “suono di uno strumento musicale”, “componimento lirico” [da cantum s.m., da canere v.]
+>cantare (1) v. “modulare musicalmente la voce”, “emettere, diffondere suoni, spec. di effetto gradevole, detto di esseri animati e inanimati”, “fare il cantante di professione”, “confessare, rivelare segreti, fare la spia”, (lett.) “narrare, spec. in versi”, “esprimere con il canto, per es. in cantare un motivo popolare”, “enunciare, attestare con chiarezza, per es. in la lettera canta le cose come stanno”, “celebrare in opere letterarie, spec. in versi”; cantarle o cantarne (fam.) “esprimere apertamente critiche, rimproveri e sim.” [da cantare v. “cantare”, “recitare formule magiche”, intens. di canere v.]
+>>cantabile agg. “che si può cantare”, (lett.) “molto melodico, musicale, spec. di versi”, (mus.) “indicazione espressiva, spec. nella musica strumentale, che richiede esecuzione scorrevole, senza artifici” s.m. “melodia, composizione melodica” [dal lat. tardo cantabilem agg.]
+>>>cantabilità s.f. “melodia, composizione melodica”
+>>cantambanco o cantimbanco s.m.  “cantore popolare che in epoca medievale declamava storie sui banchi nelle fiere” , “cantastorie, ciarlatano” [dalla locuz. canta in banco]
+>>cantante s.m. “chi esercita l’arte del canto”, “chi canta per vocazione o professione”
+>>>cantautore s.m. “compositore che interpreta canzoni proprie, cioè scritte o musicate da lui medesimo” [parola macedonia form. da cant(ante) s.m. e autore s.m.]
+>>>>cantautorale o cantautoriale agg. “relativo a un cantautore o alla sua produzione”
+>>cantare (2) s.m. “nella letteratura italiana dei sec. XIV e XV, poemetto di intonazione popolare, specie in ottave, di materia epica e cavalleresca o religiosa, recitato anche nelle piazze”, “storia in versi”
+>>cantarella s.f. “sottospecie di allodola”, “richiamo artificiale dei cacciatori per attirare le starne e pernici”, (tosc.) “cicala”
+>>cantata s.f. “canto prolungato eseguito a scopo di svago”, (mus.) “composizione sacra e profana, per voci e orchestra, che combina recitativo e aria”
+>>cantato agg. “eseguito cantando o con accompagnamento di canti”
+>>cantatore s.m., agg. (non com.) “chi, che canta, cantante” [da cantatorem s.m.]
+>>canterellare v. “cantare sommessamente, come tra sé, distrattamente, spec. di tanto in tanto”
+>>>canterellio s.m. “un canterellare continuo, spesso fastidioso”
+>>canterino agg. “che canta bene”, s.m. “chi canta spesso”, “chi recitava cantari”
+>>canticchiare v. “canterellare”
+>>>canticchiatore s.m. “chi canticchia”
